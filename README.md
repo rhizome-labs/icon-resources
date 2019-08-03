@@ -40,6 +40,12 @@ DECRYPTO is RHIZOME team member Brian Li's personal blog, and contains a variety
 * [MOU between theloop — aSSIST Business School](https://decrypto.net/mou-between-theloop-assist-business-school/?source=github)
 * [Korean Banks to Use Blockchain Identification Services in Q3 2018](https://decrypto.net/korean-banks-to-use-blockchain-identification-services-in-q3-2018/?source=github)
 
+### ReactCrypto
+ReactCrypto is RHIZOME team member William McKenzie's personal blog, and contains a variety of ICON-releated pieces.
+* [ICONLOOP: James Kim gets Appointed as First Company Advisor](https://reactcrypto.net/iconloop-james-kim/)
+* [Seoul Citizens Hall uses ICON’s Public Blockchain](https://reactcrypto.net/seoul-citizens-hall-uses-icons-public-blockchain/)
+* [Clarifying ICON’s Position on Seoul Launching Blockchain-based Citizen Cards](https://reactcrypto.net/clarifying-icons-position-on-seoul-launching-blockchain-based-citizen-cards/)
+
 ## Videos & Podcasts
 
 ### RHIZOME Offline
