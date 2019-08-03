@@ -21,3 +21,7 @@ RHIZOME Offline is a video series focused on providing ICONists with the latest 
 * [EP4 - Timestamping Images on the ICON Blockchain](https://www.youtube.com/watch?v=AK5r-1gwMN8)
 * [EP5 - ICX Staking & Rewards](https://www.youtube.com/watch?v=brHPoABY8sI)
 * [EP6 - ICON Fee 2.0, Min Kim Interview, and Pantera Capital Update](https://www.youtube.com/watch?v=luWU9_XhCDI)
+
+### The RHIZOME Report
+The RHIZOME Report is a bi-weekly podcast hosted by RHIZOME team members Brian Li and William McKenzie.
+* [Interview with ICX Station's Scott Smiley & Daeki Lee](https://rhizomeicx.com/the-rhizome-report-episode-1/)
