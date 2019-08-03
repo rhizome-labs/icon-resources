@@ -3,7 +3,7 @@ A collection of useful ICON resources and content.
 
 ## Blog Posts & Articles
 ### ICON 101 by @IconographerICX
-ICON 101 is an in-depth overview of the ICON project written by RHIZOME team member, @IconographerICX.
+ICON 101 is an in-depth overview of the ICON project written by RHIZOME team member @IconographerICX.
 1. [Introduction](https://rhizomeicx.com/icon-101-introduction/)
 2. [ICON's Genesis](https://rhizomeicx.com/icon-101-icons-genesis/)
 3. [The People & Teams of ICON](https://rhizomeicx.com/icon-101-the-people-team/)
@@ -14,7 +14,7 @@ ICON 101 is an in-depth overview of the ICON project written by RHIZOME team mem
 ## Videos & Podcasts
 
 ### RHIZOME Offline
-RHIZOME Offline is a video series focused on providing ICONists with the latest news and updates about the ICON ecosystem.
+RHIZOME Offline is a YouTube video series focused on providing ICONists with the latest news and updates about the ICON ecosystem. It is hosted by RHIZOME team member Brian Li.
 * [EP1 - Team Update, Changes to IISS, and ICON vs. ICONLOOP](https://www.youtube.com/watch?v=0QX7VuqC1xw)
 * [EP2 - 1M Transactions on ICON, DEX, DID, and ICONLOOP in Africa](https://www.youtube.com/watch?v=7aRhMneKXWM)
 * [EP3 - ICON TX Challenge, Chain Partners, and Building Smart Cities With WeGO](https://www.youtube.com/watch?v=h6wAAOPMcgM)
