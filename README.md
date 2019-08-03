@@ -1,5 +1,5 @@
 # ICON Resources
-A collection of useful ICON resources and content.
+A collection of ICON resources and content by RHIZOME.
 
 ## Blog Posts & Articles
 ### ICON 101 by @IconographerICX
