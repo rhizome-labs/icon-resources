@@ -54,3 +54,9 @@ RHIZOME Offline is a YouTube video series focused on providing ICONists with the
 ### The RHIZOME Report
 The RHIZOME Report is a bi-weekly podcast hosted by RHIZOME team members Brian Li and William McKenzie.
 * [EP1 - Interview with ICX Station's Scott Smiley & Daeki Lee](https://rhizomeicx.com/the-rhizome-report-episode-1/)
+
+### Mineable
+David Sail from Mineable is well-known for his blockchain and cryptocurrency videos.
+* [ICON ICX - Too Big to Fail? - Top 10 Reasons to Invest in 2019 – Ultimate Review](https://www.youtube.com/watch?v=QLAnYhWiet4)
+* [ICON (ICX) - 7 Updates You Need to Know! Rebranding, Exclusive ICO's, ICX Buyback!](https://www.youtube.com/watch?v=IazDgKkcsJU)
+* [ICON (ICX) - BEFORE YOU INVEST!](https://www.youtube.com/watch?v=015t8_-yvos)
