@@ -4,12 +4,19 @@ A collection of useful ICON resources and content.
 ## Blog Posts & Articles
 ### ICON 101 by @IconographerICX
 ICON 101 is an in-depth overview of the ICON project written by RHIZOME team member @IconographerICX.
-1. [Introduction](https://rhizomeicx.com/icon-101-introduction/)
-2. [ICON's Genesis](https://rhizomeicx.com/icon-101-icons-genesis/)
-3. [The People & Teams of ICON](https://rhizomeicx.com/icon-101-the-people-team/)
-4. [ICON's Technology](https://rhizomeicx.com/icon-101-icons-technology/)
-5. [ICON's Tokenomics & Economy](https://rhizomeicx.com/icon-101-icon-tokenomics-economy/)
-6. [Public vs. Private Chains & the Network Effect](https://rhizomeicx.com/icon-101-public-vs-private-chains-the-network-effect/)
+* [Introduction](https://rhizomeicx.com/icon-101-introduction/)
+* [ICON's Genesis](https://rhizomeicx.com/icon-101-icons-genesis/)
+* [The People & Teams of ICON](https://rhizomeicx.com/icon-101-the-people-team/)
+* [ICON's Technology](https://rhizomeicx.com/icon-101-icons-technology/)
+* [ICON's Tokenomics & Economy](https://rhizomeicx.com/icon-101-icon-tokenomics-economy/)
+* [Public vs. Private Chains & the Network Effect](https://rhizomeicx.com/icon-101-public-vs-private-chains-the-network-effect/)
+
+### DECRYPTO by Brian Li
+DECRYPTO is RHIZOME team member Brian Li's personal blog, and contains a variety of ICON-releated pieces.
+* [An In-Depth Look at ICON’s Un-Staking Period](https://decrypto.net/an-in-depth-look-at-icons-un-staking-period/?source=github)
+* [ICON Updates ICX Transaction Fee System to “Fee 2.0”](https://decrypto.net/icon-updates-icx-transaction-fee-system-to-fee-2-0/?source=github)
+* [ICON’s ICX Staking Reward Model](https://decrypto.net/icons-icx-staking-reward-model/?source=github)
+* [Clarifying ICON’s IISS & Pre-Voting Update](https://decrypto.net/clarifying-icons-iiss-pre-voting-update/?source=github)
 
 ## Videos & Podcasts
 
