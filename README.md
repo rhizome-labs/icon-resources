@@ -15,9 +15,9 @@ ICON 101 is an in-depth overview of the ICON project written by RHIZOME team mem
 
 ### RHIZOME Offline
 RHIZOME Offline is a video series focused on providing ICONists with the latest news and updates about the ICON ecosystem.
-1. [EP1 - Team Update, Changes to IISS, and ICON vs. ICONLOOP](https://www.youtube.com/watch?v=0QX7VuqC1xw)
-2. [EP2 - 1M Transactions on ICON, DEX, DID, and ICONLOOP in Africa](https://www.youtube.com/watch?v=7aRhMneKXWM)
-3. [EP3 - ICON TX Challenge, Chain Partners, and Building Smart Cities With WeGO](https://www.youtube.com/watch?v=h6wAAOPMcgM)
-4. [EP4 - Timestamping Images on the ICON Blockchain](https://www.youtube.com/watch?v=AK5r-1gwMN8)
-5. [EP5 - ICX Staking & Rewards](https://www.youtube.com/watch?v=brHPoABY8sI)
-6. [EP6 - ICON Fee 2.0, Min Kim Interview, and Pantera Capital Update](https://www.youtube.com/watch?v=luWU9_XhCDI)
+* [EP1 - Team Update, Changes to IISS, and ICON vs. ICONLOOP](https://www.youtube.com/watch?v=0QX7VuqC1xw)
+* [EP2 - 1M Transactions on ICON, DEX, DID, and ICONLOOP in Africa](https://www.youtube.com/watch?v=7aRhMneKXWM)
+* [EP3 - ICON TX Challenge, Chain Partners, and Building Smart Cities With WeGO](https://www.youtube.com/watch?v=h6wAAOPMcgM)
+* [EP4 - Timestamping Images on the ICON Blockchain](https://www.youtube.com/watch?v=AK5r-1gwMN8)
+* [EP5 - ICX Staking & Rewards](https://www.youtube.com/watch?v=brHPoABY8sI)
+* [EP6 - ICON Fee 2.0, Min Kim Interview, and Pantera Capital Update](https://www.youtube.com/watch?v=luWU9_XhCDI)
