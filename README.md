@@ -24,4 +24,4 @@ RHIZOME Offline is a YouTube video series focused on providing ICONists with the
 
 ### The RHIZOME Report
 The RHIZOME Report is a bi-weekly podcast hosted by RHIZOME team members Brian Li and William McKenzie.
-* [Interview with ICX Station's Scott Smiley & Daeki Lee](https://rhizomeicx.com/the-rhizome-report-episode-1/)
+* [EP1 - Interview with ICX Station's Scott Smiley & Daeki Lee](https://rhizomeicx.com/the-rhizome-report-episode-1/)
