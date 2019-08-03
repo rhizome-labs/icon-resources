@@ -2,6 +2,14 @@
 A collection of ICON resources and content by RHIZOME.
 
 ## Blog Posts & Articles
+
+### RHIZOME Blog
+Articles published on our official blog.
+* [Clarifying ICON's Position as a P-Rep](https://rhizomeicx.com/clarifying-icons-position-as-a-p-rep/)
+* [RHIZOME Interview with BongAn Ha & Changju Lee](https://rhizomeicx.com/rhizome-interview-with-bong-changju/)
+* [An Optimistic Take on ICON & Why the P-Rep Election Matters](https://rhizomeicx.com/an-optimistic-take-on-icon-why-the-p-rep-election-matters/)
+* [Dissension and Insight on Inflation in ICON and Other Protocols](https://rhizomeicx.com/inflation-funding/)
+
 ### ICON 101 by @IconographerICX
 ICON 101 is an in-depth overview of the ICON project written by RHIZOME team member @IconographerICX.
 * [Introduction](https://rhizomeicx.com/icon-101-introduction/)
