@@ -4,7 +4,7 @@ A collection of ICON resources and content by RHIZOME.
 ## Blog Posts & Articles
 
 ### RHIZOME Blog
-Articles published on our official blog.
+Articles published on the RHIZOME blog.
 * [Clarifying ICON's Position as a P-Rep](https://rhizomeicx.com/clarifying-icons-position-as-a-p-rep/)
 * [RHIZOME Interview with BongAn Ha & Changju Lee](https://rhizomeicx.com/rhizome-interview-with-bong-changju/)
 * [An Optimistic Take on ICON & Why the P-Rep Election Matters](https://rhizomeicx.com/an-optimistic-take-on-icon-why-the-p-rep-election-matters/)
