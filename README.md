@@ -20,6 +20,8 @@ ICON 101 is an in-depth overview of the ICON project written by RHIZOME team mem
 * [ICON's Technology](https://rhizomeicx.com/icon-101-icons-technology/)
 * [ICON's Tokenomics & Economy](https://rhizomeicx.com/icon-101-icon-tokenomics-economy/)
 * [Public vs. Private Chains & the Network Effect](https://rhizomeicx.com/icon-101-public-vs-private-chains-the-network-effect/)
+* [The Growing ICON Ecosystem](https://rhizomeicx.com/icon-101-the-growing-icon-ecosystem/)
+* [ICON Governance](https://rhizomeicx.com/icon-101-icon-governance/)
 
 ### DECRYPTO by Brian Li
 DECRYPTO is RHIZOME team member Brian Li's personal blog, and contains a variety of ICON-releated pieces.
@@ -71,6 +73,7 @@ RHIZOME Offline is a YouTube video series focused on providing ICONists with the
 ### The RHIZOME Report
 The RHIZOME Report is a bi-weekly podcast hosted by RHIZOME team members Brian Li and William McKenzie.
 * [EP1 - Interview with ICX Station's Scott Smiley & Daeki Lee](https://rhizomeicx.com/the-rhizome-report-episode-1/)
+* [EP2 - Interview with Edouard Lavidalle of POS Bakerz](https://rhizomeicx.com/the-rhizome-report-episode-2/)
 
 ### Mineable
 David Sail from Mineable is well-known for his blockchain and cryptocurrency videos.
