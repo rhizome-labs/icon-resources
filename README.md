@@ -11,6 +11,11 @@ Articles published on the RHIZOME blog.
 * [Now that DPASS is available, what does it do?](https://rhizomeicx.com/now-that-dpass-is-available-what-does-it-do/)
 * [Clarifying ICON's Position as a P-Rep](https://rhizomeicx.com/clarifying-icons-position-as-a-p-rep/)
 * [The Seoul Blockchain News](https://rhizomeicx.com/the-seoul-blockchain-news/)
+* [RHIZOME Interview with Willy Beamish of ICONbet](https://rhizomeicx.com/rhizome-interview-with-willy-beamish-of-iconbet/)
+* [The Risks of Staking Through Exchanges](https://rhizomeicx.com/the-risks-of-staking-through-exchanges/)
+* [RHIZOME Progress Report](https://rhizomeicx.com/rhizome-progress-report/)
+* [Art on the ICON Public Blockchain](https://rhizomeicx.com/art-on-the-icon-blockchain/)
+* [A Closer Look at ICON’s Delegated Proof-of-Contribution Model](https://rhizomeicx.com/a-closer-look-at-icons-delegated-proof-of-contribution-model/)
 
 ### ICON 101 by @IconographerICX
 ICON 101 is an in-depth overview of the ICON project written by RHIZOME team member @IconographerICX.
