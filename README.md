@@ -13,7 +13,7 @@ Articles published on the RHIZOME blog.
 * [The Seoul Blockchain News](https://rhizomeicx.com/the-seoul-blockchain-news/)
 * [RHIZOME Interview with Willy Beamish of ICONbet](https://rhizomeicx.com/rhizome-interview-with-willy-beamish-of-iconbet/)
 * [The Risks of Staking Through Exchanges](https://rhizomeicx.com/the-risks-of-staking-through-exchanges/)
-* [RHIZOME Progress Report](https://rhizomeicx.com/rhizome-progress-report/)
+* [RHIZOME Progress Report August 2019](https://rhizomeicx.com/rhizome-progress-report/)
 * [Art on the ICON Public Blockchain](https://rhizomeicx.com/art-on-the-icon-blockchain/)
 * [KOFIA, ChainID, and the Korean-consortium blockchain agreement](https://rhizomeicx.com/kofia-chainid-and-the-korean-consortium-blockchain-agreement/)
 * [Why I Don’t Worry About the Price of ICX](https://rhizomeicx.com/why-i-dont-worry-about-the-price-of-icx/)
@@ -25,6 +25,10 @@ Articles published on the RHIZOME blog.
 * [Breaking Down the Kraken Announcement](https://rhizomeicx.com/unleash-the-kraken/)
 * [Understanding the Impact (or lack thereof) of Staking On the Price of ICX](https://rhizomeicx.com/understanding-the-impact-or-lack-thereof-of-staking-on-the-price-of-icx/)
 * [Concerned about ICON becoming EOS? Don't be.](https://rhizomeicx.com/concerned-about-icon-becoming-eos-dont-be/)
+* [RHIZOME Progress Report September 2019](https://rhizomeicx.com/progress-report-2/)
+* [Coming Soon: MetrICX](https://rhizomeicx.com/introducing-metricx/)
+* [Transcript: Ricky Dodd's Telegram AMA (Oct. 15-16)](https://rhizomeicx.com/transcript-ricky-dodds-telegram-ama/)
+* [RHIZOME Interview with Staked](https://rhizomeicx.com/rhizome-interview-w-staked/)
 
 ### ICON 101 by @IconographerICX
 ICON 101 is an in-depth overview of the ICON project written by RHIZOME team member @IconographerICX.
@@ -125,6 +129,7 @@ The RHIZOME Report is a bi-weekly podcast hosted by RHIZOME team members Brian L
 * [EP5 - Interview with Radiofriendly of ICONation](https://rhizomeicx.com/the-rhizome-report-episode-5-a-chat-with-radiofriendly-of-iconation/)
 * [EP6 - Interview with Rodney Yesep of Gilga Capital](https://open.spotify.com/episode/3CWeP2Fj1NrvTBedv3gdWN?si=3K9jA-t2TtiHa5WtEEtsRw)
 * [EP7 - Interview with Shane Burgett of Pocket/Figment](https://rhizomeicx.com/the-rhizome-report-episode/)
+* [EP8 - Interview with Vitalii Parkhomenko of Everstake](https://rhizomeicx.com/rhizome-interview-with-everstake/)
 
 ### Mineable
 David Sail from Mineable is well-known for his blockchain and cryptocurrency videos.
