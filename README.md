@@ -126,9 +126,9 @@ The RHIZOME Report is a bi-weekly podcast hosted by RHIZOME team members Brian L
 * [EP6 - Interview with Rodney Yesep of Gilga Capital](https://open.spotify.com/episode/3CWeP2Fj1NrvTBedv3gdWN?si=3K9jA-t2TtiHa5WtEEtsRw)
 * [EP7 - Interview with Shane Burgett of Pocket/Figment](https://rhizomeicx.com/the-rhizome-report-episode/)
 * [EP8 - Interview with Vitalii Parkhomenko of Everstake](https://rhizomeicx.com/rhizome-interview-with-everstake/)
-* [RHIZOME Report EP10 - A Conversation with Edouard Lavidalle of POS Bakerz](https://rhizomeicx.com/rhizome-report-episode-10-a-conversation-with-edouard-lavidalle-of-pos-bakerz/)
-* [RHIZOME Report EP11 - ICON BTP v0.5, ICX on Binance US, and ICON/VELIC Grant Proposals](https://rhizomeicx.com/rhizome-report-episode-11-icon-btp-v0-5-icx-on-binance-us-and-icon-velic-grant-proposals/)
-* [RHIZOME Report EP12 - Tokenizing Gold on loopchain, Public Chain Usage and myID, and P-Rep Meetings](https://rhizomeicx.com/rhizome-report-episode-12-tokenizing-gold-on-loopchain-public-chain-usage-and-myid-and-p-rep-meetings/)
+* [EP10 - A Conversation with Edouard Lavidalle of POS Bakerz](https://rhizomeicx.com/rhizome-report-episode-10-a-conversation-with-edouard-lavidalle-of-pos-bakerz/)
+* [EP11 - ICON BTP v0.5, ICX on Binance US, and ICON/VELIC Grant Proposals](https://rhizomeicx.com/rhizome-report-episode-11-icon-btp-v0-5-icx-on-binance-us-and-icon-velic-grant-proposals/)
+* [EP12 - Tokenizing Gold on loopchain, Public Chain Usage and myID, and P-Rep Meetings](https://rhizomeicx.com/rhizome-report-episode-12-tokenizing-gold-on-loopchain-public-chain-usage-and-myid-and-p-rep-meetings/)
 
 ### Miscellaneous
 A collection of videos released independently about ICON and w/o categorization.
