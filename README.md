@@ -29,6 +29,13 @@ Articles published on the RHIZOME blog.
 * [Coming Soon: MetrICX](https://rhizomeicx.com/introducing-metricx/)
 * [Transcript: Ricky Dodd's Telegram AMA (Oct. 15-16)](https://rhizomeicx.com/transcript-ricky-dodds-telegram-ama/)
 * [RHIZOME Interview with Staked](https://rhizomeicx.com/rhizome-interview-w-staked/)
+* [Breaking Down the my-ID Alliance](https://rhizomeicx.com/breaking-down-the-my-id-alliance/)
+* [MetrICX Now Available on Android](https://rhizomeicx.com/metricx-now-available-on-android/)
+* [ICON CORE by RHIZOME, UBIK Capital, ICONation, and Sharpn](https://rhizomeicx.com/icon-core-by-rhizome-ubik-capital-iconation-and-sharpn/)
+* [Introducing "RHIZOME Wire" - A Weekly Newsletter for ICONists](https://rhizomeicx.com/introducing-rhizome-wire-a-weekly-newsletter-for-iconists/)
+* [What exactly is weBloc up to? A lot.](https://rhizomeicx.com/what-exactly-is-webloc-up-to-a-lot/)
+* [MetrICX Feature Update: Dec 6, 2019](https://rhizomeicx.com/metricx-feature-update-december-6-2019/)
+* [POSTECH to Issue Graduate Diplomas on ICON with broof](https://rhizomeicx.com/postech-to-issue-graduate-diplomas-on-icon-with-broof/)
 
 ### ICON 101 by @IconographerICX
 ICON 101 is an in-depth overview of the ICON project written by RHIZOME team member @IconographerICX.
@@ -42,8 +49,8 @@ ICON 101 is an in-depth overview of the ICON project written by RHIZOME team mem
 * [ICON Governance](https://rhizomeicx.com/icon-101-icon-governance/)
 * [Possible Points of Failure](https://medium.com/@iconographicx/icon-101-part-9-possible-points-of-failure-ff56b6574da6)
 
-### DECRYPTO by Brian Li
-DECRYPTO is RHIZOME team member Brian Li's personal blog, and contains a variety of ICON-releated pieces.
+### BrianLi.com 
+BrianLi.com is RHIZOME team member Brian Li's personal blog, and contains a variety of ICON-releated pieces.
 * [Korean Banks to Use Blockchain Identification Services in Q3 2018](https://decrypto.net/korean-banks-to-use-blockchain-identification-services-in-q3-2018/?source=github)
 * [MOU between theloop — aSSIST Business School](https://decrypto.net/mou-between-theloop-assist-business-school/?source=github)
 * [Samsung Pass to Use theloop’s CHAIN ID](https://decrypto.net/samsung-pass-to-use-theloops-chain-id/?source=github)
@@ -76,6 +83,9 @@ DECRYPTO is RHIZOME team member Brian Li's personal blog, and contains a variety
 * [An In-Depth Look at ICON’s Un-Staking Period](https://decrypto.net/an-in-depth-look-at-icons-un-staking-period/?source=github)
 * [Seoul Is Going All in on Blockchain](https://decrypto.net/seoul-is-going-all-in-on-blockchain/?source=github)
 * [The Dangers of P-Rep Reward Sharing in the ICON Ecosystem](https://decrypto.net/the-dangers-of-p-rep-reward-sharing-in-the-icon-ecosystem/)
+* [ICON CORE - Why It's Needed](https://brianli.com/icon-core-why-its-needed/)
+* [ICON Governance, Vote Distribution, and Reducing I-Rep](https://brianli.com/icon-governance-vote-distribution-and-reducing-i-rep/)
+* [South Korea's POSTECH to Issue Diplomas on ICON's Blockchain with broof](https://brianli.com/south-koreas-postech-to-issue-diplomas-on-icon-public-blockchain/)
 
 ### Reactcrypto
 ReactCrypto is RHIZOME team member William McKenzie's personal blog, and contains a variety of ICON-releated pieces.
@@ -87,20 +97,6 @@ ReactCrypto is RHIZOME team member William McKenzie's personal blog, and contain
 * [Clarifying ICON’s Position on Seoul Launching Blockchain-based Citizen Cards](https://reactcrypto.net/clarifying-icons-position-on-seoul-launching-blockchain-based-citizen-cards/)
 * [ICON (ICX) Staking is Just 12 Days Away](https://reactcrypto.net/icon-icx-staking/)
 * [A Closer Look at ICON’s Delegated Proof-of-Contribution Model](https://reactcrypto.net/icons-delegated-proof-of-contribution-model/)
-
-### Mineable
-Mineable.com is RHIZOME team member Mineable's website, and contains a wide variety of ICON related posts.
-* [Beyond Blocks Summit: CEO of ICON Foundation Council: “Cryptocurrency Is More Profitable Than The Use Of Blockchain”](https://mineable.com/beyond-blocks-summit-ceo-of-icon-foundation-council-cryptocurrency-is-more-profitable-than-the-use-of-blockchain/)
-* [ICON Founder Addresses Community: “I’d Be Lying If I Said the Price Doesn’t Have Any Effect” Price, Roadmap and News on Staking](https://mineable.com/icon-founder-addresses-community-id-be-lying-if-i-said-the-price-doesnt-have-any-effect-price-roadmap-and-news-on-staking/)
-* [DAYLI Financial Group Executive Manager: “There Should Be Another Price Increase by December”](https://mineable.com/dayli-financial-group-executive-manager-there-should-be-another-price-increase-by-december/)
-* [One Year of Global ICO Success: How ICON is Leading The Blockchain Ecosystem Forward](https://mineable.com/one-year-of-global-ico-success-how-icon-is-leading-blockchain-ecosystem-forward/)
-* [South Korea Push for Major Cryptocurrency Adoption: ICON (ICX) Fundamentals Are Moving Forward](https://mineable.com/south-korea-push-for-major-crypto-adoption-icon-icx-fundamentals-are-moving-forward/)
-* [ICON Introduces Staking, New Roadmap, ICX Staking Calculator: Everything You Need to Know](https://mineable.com/icon-introduces-staking-new-roadmap-icx-staking-calculator-everything-you-need-to-know/)
-* [South Korea’s Largest Interchain ICON (ICX) Connects an Ecosystem of Blockchain Communities](https://mineable.com/south-koreas-largest-interchain-icon-icx-connects-an-ecosystem-of-blockchain-communities/)
-* [ICON (ICX) Price on the Road to Recovery: Here’s Why](https://mineable.com/icon-icx-price-on-the-road-to-recovery-heres-why/)
-* [ICON (ICX) – Whatever Happened to The Korean Ethereum?](https://mineable.com/icon-icx-whatever-happened-to-the-korean-ethereum/)
-* [Technical Dive into ICON ICX](https://mineable.com/technical-dive-into-icon-icx/)
-* [ICON (ICX) – ICONSENSUS P-Rep Elections Reach 50 Applicants](https://mineable.com/icon-icx-iconsensus-p-rep-elections-reach-50-applicants/)
 
 ### The Iconist
 Guest posts from RHIZOME team members published on the Iconist, a leading publication and entity within the ICON ecosystem.
@@ -130,13 +126,9 @@ The RHIZOME Report is a bi-weekly podcast hosted by RHIZOME team members Brian L
 * [EP6 - Interview with Rodney Yesep of Gilga Capital](https://open.spotify.com/episode/3CWeP2Fj1NrvTBedv3gdWN?si=3K9jA-t2TtiHa5WtEEtsRw)
 * [EP7 - Interview with Shane Burgett of Pocket/Figment](https://rhizomeicx.com/the-rhizome-report-episode/)
 * [EP8 - Interview with Vitalii Parkhomenko of Everstake](https://rhizomeicx.com/rhizome-interview-with-everstake/)
-
-### Mineable
-David Sail from Mineable is well-known for his blockchain and cryptocurrency videos.
-* [ICON ICX - Too Big to Fail? - Top 10 Reasons to Invest in 2019 – Ultimate Review](https://www.youtube.com/watch?v=QLAnYhWiet4)
-* [ICON (ICX) - 7 Updates You Need to Know! Rebranding, Exclusive ICO's, ICX Buyback!](https://www.youtube.com/watch?v=IazDgKkcsJU)
-* [ICON (ICX) - BEFORE YOU INVEST!](https://www.youtube.com/watch?v=015t8_-yvos)
-* [ICON ICX Is Back! Staking, P-Reps, Voting. Everything You Need to Know!](https://www.youtube.com/watch?v=F6VvxBX5oWU)
+* [RHIZOME Report EP10 - A Conversation with Edouard Lavidalle of POS Bakerz](https://rhizomeicx.com/rhizome-report-episode-10-a-conversation-with-edouard-lavidalle-of-pos-bakerz/)
+* [RHIZOME Report EP11 - ICON BTP v0.5, ICX on Binance US, and ICON/VELIC Grant Proposals](https://rhizomeicx.com/rhizome-report-episode-11-icon-btp-v0-5-icx-on-binance-us-and-icon-velic-grant-proposals/)
+* [RHIZOME Report EP12 - Tokenizing Gold on loopchain, Public Chain Usage and myID, and P-Rep Meetings](https://rhizomeicx.com/rhizome-report-episode-12-tokenizing-gold-on-loopchain-public-chain-usage-and-myid-and-p-rep-meetings/)
 
 ### Miscellaneous
 A collection of videos released independently about ICON and w/o categorization.
