@@ -140,3 +140,14 @@ The RHIZOME Report is a bi-weekly podcast hosted by RHIZOME team members Brian L
 A collection of videos released independently about ICON and w/o categorization.
 * [How to Do ICON ICX Token Swap in ICONex Wallet](https://www.youtube.com/watch?v=sETP80sCTDY&t=538s)
 * [How RHIZOME Deploys ICON Nodes](https://www.youtube.com/watch?v=-Ttj_dBWI8g&t=8s)
+
+## RHIZOME WIRE Newsletter
+* [Crypto news and analysis from the RHIZOME team.](https://rhizomewire.substack.com/p/coming-soon)
+* [An ICON Milestone](https://rhizomewire.substack.com/p/an-icon-milestone)
+* [Early Inning Hiccups](https://rhizomewire.substack.com/p/early-inning-hiccups)
+* [Scenes from a Bear Market](https://rhizomewire.substack.com/p/scenes-from-a-bear-market)
+* [Peeling back the layers of weBloc](https://rhizomewire.substack.com/p/peeling-back-the-layers-of-webloc)
+* [Who's down with BTP?](https://rhizomewire.substack.com/p/whos-down-with-btp)
+* [The marketcap fallacy](https://rhizomewire.substack.com/p/the-marketcap-fallacy)
+* [2020 Predictions](https://rhizomewire.substack.com/p/2020-predictions)
+* [The Importance of DApps](https://rhizomewire.substack.com/p/the-importance-of-dapps)
