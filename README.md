@@ -125,6 +125,16 @@ The RHIZOME Report is a bi-weekly podcast hosted by RHIZOME team members Brian L
 * [EP10 - A Conversation with Edouard Lavidalle of POS Bakerz](https://rhizomeicx.com/rhizome-report-episode-10-a-conversation-with-edouard-lavidalle-of-pos-bakerz/)
 * [EP11 - ICON BTP v0.5, ICX on Binance US, and ICON/VELIC Grant Proposals](https://rhizomeicx.com/rhizome-report-episode-11-icon-btp-v0-5-icx-on-binance-us-and-icon-velic-grant-proposals/)
 * [EP12 - Tokenizing Gold on loopchain, Public Chain Usage and myID, and P-Rep Meetings](https://rhizomeicx.com/rhizome-report-episode-12-tokenizing-gold-on-loopchain-public-chain-usage-and-myid-and-p-rep-meetings/)
+* [EP13 - A Conversation with Mark Thomas of ZenSports](https://www.youtube.com/watch?v=ZVL2kGQMInY)
+* [EP14 - ICON-Chainlink Integration, POSTECH Issues Diplomas with broof, and More](https://www.youtube.com/watch?v=T3eJFNPGlIw)
+* [EP15 - DeFi on ICON, 2020 Roadmap, Contribution Proposal Fund, and More](https://www.youtube.com/watch?v=rO8oCTS6JW4)
+* [EP16 - IISS 3.0, ICONLOOP Adoption in Seoul, and Crypto Regulation in South Korea](https://www.youtube.com/watch?v=B67VPagkQnc)
+* [EP17 - A Conversation with Markus Jun of ICON Hyperconnect](https://www.youtube.com/watch?v=hRbRzlk7MT8)
+* [EP18 - LFT2, Min Kim's AMA, IISS 3.0, and More](https://www.youtube.com/watch?v=P8aL6vOwoCs)
+* [EP19 - ICON Reopens SK Office, IISS 3.0 Approval, Min Kim Interview, and More](https://www.youtube.com/watch?v=46qsSj2lbCU)
+* [EP20 - Binance Korea and MyID, MetrICX Updates, and ReliantNode's MyICONWallet App](https://www.youtube.com/watch?v=FH6QsoIzwlI)
+* [EP21 - MyID in South Korea, BTP 1.0, and ICONex Updates](https://www.youtube.com/watch?v=aOlJXQoHdB0)
+
 
 ### Miscellaneous
 A collection of videos released independently about ICON and w/o categorization.
