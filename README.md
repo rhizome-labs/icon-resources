@@ -86,8 +86,8 @@ BrianLi.com is RHIZOME team member Brian Li's personal blog, and contains a vari
 * [A Real-Time ICON Notification System](https://brianli.com/a-real-time-icon-notification-system/)
 * [How to Use Serverless Functions to Interact with the ICON Blockchain](https://brianli.com/how-to-use-serverless-functions-to-interact-with-the-icon-blockchain/)
 
-### Reactcrypto
-ReactCrypto is RHIZOME team member William McKenzie's personal blog, and contains a variety of ICON-releated pieces.
+### wmckenzie.com
+wmckenzie.com is RHIZOME team member William McKenzie's personal blog, and contains a variety of ICON-releated pieces.
 * [How ICON is Forming the Foundation of South Korea’s Blockchain Economy](https://reactcrypto.net/how-icon-is-forming-the-foundation-of-south-koreas-blockchain-economy/)
 * [TRIBE has Partnered with BMW Group Asia, Intel, and Nielsen](https://reactcrypto.net/tribe-has-partnered-with-bmw-group-asia-intel-and-nielsen/)
 * [Seoul Citizens Hall uses ICON’s Public Blockchain](https://reactcrypto.net/seoul-citizens-hall-uses-icons-public-blockchain/)
@@ -154,3 +154,23 @@ A collection of videos released independently about ICON and w/o categorization.
 * [The marketcap fallacy](https://rhizomewire.substack.com/p/the-marketcap-fallacy)
 * [2020 Predictions](https://rhizomewire.substack.com/p/2020-predictions)
 * [The Importance of DApps](https://rhizomewire.substack.com/p/the-importance-of-dapps)
+* [BROOF and the road to mass adoption](https://rhizomewire.substack.com/p/broof-and-the-road-to-mass-adoption)
+* [The importance of an oracle](https://rhizomewire.substack.com/p/the-importance-of-an-oracle)
+* [Price discussion](https://rhizomewire.substack.com/p/price-discussion)
+* [This is what adoption looks like](https://rhizomewire.substack.com/p/this-is-what-adoption-looks-like)
+* [The arrival of DeFi](https://rhizomewire.substack.com/p/the-arrival-of-defi)
+* [The many ways to earn passive income with ICX](https://rhizomewire.substack.com/p/the-many-ways-to-earn-passive-income)
+* [Is a bond requirement a good idea?](https://rhizomewire.substack.com/p/is-a-bond-requirement-a-good-idea)
+* [An interview with Balanced](https://rhizomewire.substack.com/p/an-interview-with-balanced)
+* [We're going to Consensus!](https://rhizomewire.substack.com/p/were-going-to-consensus)
+* [How does crypto react to an economic crisis?](https://rhizomewire.substack.com/p/how-does-crypto-react-to-an-economic)
+* [Why price does not reflect fundamentals, Part 96](https://rhizomewire.substack.com/p/why-price-does-not-reflect-fundamentals)
+* [Why Bithumb's entry into the My-ID Alliance is more bullish than you think](https://rhizomewire.substack.com/p/why-bithumbs-entry-into-the-my-id)
+* [ICON's latest technological breakthrough](https://rhizomewire.substack.com/p/icons-latest-technological-breakthrough)
+* [The latest AMA with Min Kim](https://rhizomewire.substack.com/p/the-latest-ama-with-min-kim)
+* [The resilience of ICON](https://rhizomewire.substack.com/p/the-resilience-of-icon)
+* [Highlights from ICON's AMA with Binance.us](https://rhizomewire.substack.com/p/highlights-from-icons-ama-with-binanceus)
+* [RHIZOME's latest ICON development](https://rhizomewire.substack.com/p/rhizomes-latest-icon-development)
+* [ICONLOOP's role in healthcare](https://rhizomewire.substack.com/p/iconloops-role-in-healthcare)
+* [The Certification Innovation](https://rhizomewire.substack.com/p/the-certification-innovation)
+* [Another milestone for ICON](https://rhizomewire.substack.com/p/another-milestone-for-icon)
