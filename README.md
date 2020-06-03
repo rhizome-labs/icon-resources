@@ -82,6 +82,9 @@ BrianLi.com is RHIZOME team member Brian Li's personal blog, and contains a vari
 * [ICON CORE - Why It's Needed](https://brianli.com/icon-core-why-its-needed/)
 * [ICON Governance, Vote Distribution, and Reducing I-Rep](https://brianli.com/icon-governance-vote-distribution-and-reducing-i-rep/)
 * [South Korea's POSTECH to Issue Diplomas on ICON's Blockchain with broof](https://brianli.com/south-koreas-postech-to-issue-diplomas-on-icon-public-blockchain/)
+* [Why ICON's Upcoming Integration with Chainlink is Important](https://brianli.com/why-icons-upcoming-integration-with-chainlink-is-important/)
+* [A Real-Time ICON Notification System](https://brianli.com/a-real-time-icon-notification-system/)
+* [How to Use Serverless Functions to Interact with the ICON Blockchain](https://brianli.com/how-to-use-serverless-functions-to-interact-with-the-icon-blockchain/)
 
 ### Reactcrypto
 ReactCrypto is RHIZOME team member William McKenzie's personal blog, and contains a variety of ICON-releated pieces.
