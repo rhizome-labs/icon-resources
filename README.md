@@ -88,14 +88,14 @@ BrianLi.com is RHIZOME team member Brian Li's personal blog, and contains a vari
 
 ### wmckenzie.com
 wmckenzie.com is RHIZOME team member William McKenzie's personal blog, and contains a variety of ICON-releated pieces.
-* [How ICON is Forming the Foundation of South Korea’s Blockchain Economy](https://reactcrypto.net/how-icon-is-forming-the-foundation-of-south-koreas-blockchain-economy/)
-* [TRIBE has Partnered with BMW Group Asia, Intel, and Nielsen](https://reactcrypto.net/tribe-has-partnered-with-bmw-group-asia-intel-and-nielsen/)
-* [Seoul Citizens Hall uses ICON’s Public Blockchain](https://reactcrypto.net/seoul-citizens-hall-uses-icons-public-blockchain/)
-* [ICONLOOP: James Kim gets Appointed as First Company Advisor](https://reactcrypto.net/iconloop-james-kim/)
-* [ICON’s Update to IISS](https://reactcrypto.net/icons-update-to-iiss/)
-* [Clarifying ICON’s Position on Seoul Launching Blockchain-based Citizen Cards](https://reactcrypto.net/clarifying-icons-position-on-seoul-launching-blockchain-based-citizen-cards/)
-* [ICON (ICX) Staking is Just 12 Days Away](https://reactcrypto.net/icon-icx-staking/)
-* [A Closer Look at ICON’s Delegated Proof-of-Contribution Model](https://reactcrypto.net/icons-delegated-proof-of-contribution-model/)
+* [How ICON is Forming the Foundation of South Korea’s Blockchain Economy](https://wmckenzie.com/how-icon-is-forming-the-foundation-of-south-koreas-blockchain-economy/)
+* [TRIBE has Partnered with BMW Group Asia, Intel, and Nielsen](https://wmckenzie.com/tribe-has-partnered-with-bmw-group-asia-intel-and-nielsen/)
+* [Seoul Citizens Hall uses ICON’s Public Blockchain](https://wmckenzie.com/seoul-citizens-hall-uses-icons-public-blockchain/)
+* [ICONLOOP: James Kim gets Appointed as First Company Advisor](https://wmckenzie.com/iconloop-james-kim/)
+* [ICON’s Update to IISS](https://wmckenzie.com/icons-update-to-iiss/)
+* [Clarifying ICON’s Position on Seoul Launching Blockchain-based Citizen Cards](https://wmckenzie.com/clarifying-icons-position-on-seoul-launching-blockchain-based-citizen-cards/)
+* [ICON (ICX) Staking is Just 12 Days Away](https://wmckenzie.com/icon-icx-staking/)
+* [A Closer Look at ICON’s Delegated Proof-of-Contribution Model](https://wmckenzie.com/icons-delegated-proof-of-contribution-model/)
 
 ### The Iconist
 Guest posts from RHIZOME team members published on the Iconist, a leading publication and entity within the ICON ecosystem.
@@ -174,3 +174,19 @@ A collection of videos released independently about ICON and w/o categorization.
 * [ICONLOOP's role in healthcare](https://rhizomewire.substack.com/p/iconloops-role-in-healthcare)
 * [The Certification Innovation](https://rhizomewire.substack.com/p/the-certification-innovation)
 * [Another milestone for ICON](https://rhizomewire.substack.com/p/another-milestone-for-icon)
+
+## MyID Alliance Infographics
+* [Shinhan Bank](https://twitter.com/RhizomeICX/status/1245369455103877122?s=20)
+* [Samsung Securities](https://twitter.com/RhizomeICX/status/1246046837179592704?s=20)
+* [Industrial Bank of Korea](https://twitter.com/RhizomeICX/status/1247584599024316419?s=20)
+* [KB Securities](https://twitter.com/RhizomeICX/status/1247961644824694785?s=20)
+* [Mirae Asset Daewoo](https://twitter.com/RhizomeICX/status/1248722331012419585?s=20)
+* [Hanwha Investment & Securities](https://twitter.com/RhizomeICX/status/1250105095188107264?s=20)
+* [Eugene Investments & Securities](https://twitter.com/RhizomeICX/status/1252313661374377988?s=20)
+* [eBEST Investment & Securities](https://twitter.com/RhizomeICX/status/1253364716015157248?s=20)
+* [Hi Investment & Securities](https://twitter.com/RhizomeICX/status/1255199523871358976?s=20)
+* [Yuanta Securities (Korea)](https://twitter.com/RhizomeICX/status/1255917085953331202?s=20)
+* [DB Financial Investment](https://twitter.com/RhizomeICX/status/1257429884755902464?s=20)
+* [BNK Busan Bank](https://twitter.com/RhizomeICX/status/1257430509845708801?s=20)
+* [KOFIA (Korea Financial Investment Association)](https://twitter.com/RhizomeICX/status/1264249387565359105?s=20)
+* [Samsung Electronics](https://twitter.com/RhizomeICX/status/1265750320707252228?s=20)
